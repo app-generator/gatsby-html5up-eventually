@@ -2,6 +2,8 @@
 
 Open-source app built with GatsbyJS on top of HTML5Up Eventually design. 
 
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
+
 <br />
 
 ![GatsbyJS Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-eventually-intro.gif?raw=true)
